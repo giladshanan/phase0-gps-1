@@ -15,5 +15,5 @@ git commit -m 'create awesome page!' - adds a commit with a message
 git status - shows status of files in the local repository
 git push origin master - pushes local changes to the master branch on github
 git co -b add-command-log - create and switch to a new branch 'add-command-log'
-subl README.md - open the README.md file in the Sublime text editor
+subl README.md - open the README.md file in Sublime text editor
 history - lists all commands entered in the terminal session 
