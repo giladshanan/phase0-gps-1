@@ -11,7 +11,7 @@ ls - list contents of current directory
 git push origin master - pushes local changes to the master branch on github
 git status - shows status of files in local repository
 git add awesome_page.md - add the file 'awesome_page' to the repository
-git commit -m 'create awesome page!' - adds a commit with a message
+git commit -m 'create awesome page!' - add commit with a message
 git status - shows status of files in the local repository
 git push origin master - pushes local changes to the master branch on github
 git co -b add-command-log - create and switch to a new branch 'add-command-log'
